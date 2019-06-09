@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "五子棋", "五子棋\五子棋.pyproj", "{CA257763-E4CF-46DC-B1DA-9506E6CBD680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA257763-E4CF-46DC-B1DA-9506E6CBD680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA257763-E4CF-46DC-B1DA-9506E6CBD680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5D870E-C2B0-4B5B-A6D9-34B9EB502A54}
+	EndGlobalSection
+EndGlobal
